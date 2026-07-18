@@ -16,7 +16,10 @@
   - [Contributors](#contributors)
 
 ## Introduction
-The **College Placement Management System** is a web application designed to streamline and digitize the placement process in colleges and universities. Developed by final year students of **Rizvi College of Engineering**, the system features a multi-role platform catering to students, TPO (Training and Placement Officer), management, and super admin. It aims to minimize manual efforts, improve transparency, and provide real-time tracking of the placement cycle.
+
+The **Student Placement Management System** is a web-based application designed to simplify and automate the campus placement process for educational institutions. It provides a centralized platform where students can register, maintain their academic profiles, upload resumes, and apply for job opportunities. Administrators and placement officers can efficiently manage student records, company information, job postings, applications, and placement activities through an intuitive dashboard.
+
+Developed using **React.js** for the frontend, **Spring Boot** for the backend, and **MySQL** for data storage, the system ensures secure authentication, efficient data management, and a responsive user experience. The application aims to reduce manual work, improve transparency, and streamline communication between students, placement officers, and recruiters.
 
 ## Features
 - **Student Portal**: Register and login, update profile, upload resume, view available job opportunities, apply for jobs, and track application status.
@@ -136,8 +139,6 @@ cd college-placement-management-system
    ```
 
 ## Contributors
-- **Member 1**: [Moin MN](https://www.linkedin.com/in/moinnaik/)
-- **Member 2**: Rafat Muskan Shaikh
-- **Member 3**: Saquib Patel
-- **Member 4**: Neeraj Kumar
-
+- **Member 1**: Potla Rushi
+- **Member 2**: Bade Chaitanya Sai Chakravarthi
+- **Member 3**: Narla Rishmitha
